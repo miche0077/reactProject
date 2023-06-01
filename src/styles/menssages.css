@@ -1,0 +1,13 @@
+.mensage-h{
+    display: flex;
+    justify-content: end;
+
+}
+
+.icone-mensage{
+    width: 28px;
+    height: 28px;
+    margin-right: 70px;
+    margin-top: -35px;
+   cursor: pointer;
+}

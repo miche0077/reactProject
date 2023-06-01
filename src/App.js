@@ -1,10 +1,16 @@
 import './App.css';
+import Home from './components/home';
+import Mensages from './components/mensages';
+import Name from './components/name';
 
 function App() {
+  
   return (
-    <div className="App">
-      <h1>Hello World</h1>
-    </div>
+    <div>
+   <Name />
+   <Home />
+   <Mensages />
+   </div>
   );
 }
 
