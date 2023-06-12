@@ -1,11 +1,10 @@
 
-.home-h{
-    display: flex;
-    justify-content: end;
-}
 .icon{
 width: 30px;
-margin-right: 20px;
-margin-top: -40px;
+margin-top: 10px;
 cursor: pointer;
+
+}
+.menu-item{
+    margin-left: 15px;
 }

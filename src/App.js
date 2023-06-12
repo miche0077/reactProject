@@ -6,10 +6,10 @@ import Name from './components/name';
 function App() {
   
   return (
-    <div>
-   <Name />
-   <Home />
-   <Mensages />
+    <div className="menu-container">
+   <Name nome="Michelle Vegas"/>
+   <Home home="Home"/>
+   <Mensages message="Menssage"/>
    </div>
   );
 }
